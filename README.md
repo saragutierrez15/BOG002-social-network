@@ -11,7 +11,7 @@
 
 ## 1. Contexto 
 
-WikiMoms es una red social creada para que las todas las Mamás puedan compartir las experiecias obtenidas en esta etapa, generando una red de apoyo entre mujeres.
+WikiMoms es una red social creada para que las todas las Mamás puedan compartir las experiencias obtenidas en esta etapa, generando una red de apoyo entre mujeres.
 
 
 ## 2. UX 
